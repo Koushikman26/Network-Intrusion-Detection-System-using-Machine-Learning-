@@ -1,3 +1,5 @@
+Network Intrusion Detection System using Machine Learning 🛡️
+
 🚨 Note: The complete source code for this project is accessible via the README. The development was carried out on Google Colab, as the XGBoost classifier is not directly compatible with local execution environments.
 
 🌐 Project Overview
