@@ -36,7 +36,7 @@ The documentation includes detailed explanations of the methods, analysis, and r
 Access the full code in the following Google Colab notebook: [Link to Source Code]
 
 📬 Contact
-For feedback or queries, feel free to reach out to Harsha G.
+For feedback or queries, feel free to reach out to Koushik S.
 
 🤝 Contributions Welcome!
 You can contribute by:
